@@ -1,3 +1,3 @@
 # Chrome-it
 
-A way of enhancing the experience with chrome.
+A way of using the chrome in better way with some more assisstant like features.
